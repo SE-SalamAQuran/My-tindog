@@ -1,2 +1,1 @@
-# My-tindog
-Tindog mockup website.
+TinDog Starting Files
